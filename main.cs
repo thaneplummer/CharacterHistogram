@@ -3,6 +3,8 @@
 /// main.cs
 /// by tkp
 ///
+/// Copyright (C) 2018, Thane K. Plummer
+///
 
 
 void Main()
